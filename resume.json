@@ -1,0 +1,95 @@
+{
+    "name": "Aryan Deshmukh",
+    "location": "Pune",
+    "phone": "+91 9309520482",
+    "email": "adeshmukh843@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/aryandeshmukh-profile",
+    "profile": "Passionate and resourceful engineering student with a strong foundation in software development and a keen interest in emerging technologies. Adept at solving complex problems and developing innovative solutions. Eager to contribute to impactful projects and grow within a dynamic and collaborative environment.",
+    "education": [
+      {
+        "degree": "Bachelor of Engineering (E&TC) (Pursuing)",
+        "institution": "Vishwakarma Institute of Technology, Pune",
+        "years": "2021 - 2025",
+        "cgpa": 8.38
+      },
+      {
+        "degree": "12th CBSE",
+        "institution": "Aklank Public School, Kota",
+        "years": "2019 - 2021"
+      },
+      {
+        "degree": "10th CBSE",
+        "institution": "Podar International School, Kolhapur",
+        "years": "2018 - 2019"
+      }
+    ],
+    "skills": {
+      "IT Skills": [
+        "OOP Java",
+        "Data Structures and Algorithm",
+        "Web Development (MERN stack)",
+        "Database Management (MySQL, MongoDB)",
+        "Bash and Shell Scripting",
+        "AWS Cloud Computing"
+      ],
+      "DevOps Technologies": [
+        "Version Control System (Git)",
+        "Kubernetes",
+        "Docker",
+        "Docker Swarm",
+        "Monorepo",
+        "Kafka"
+      ],
+      "Languages": [
+        "English (Fluent)",
+        "Hindi (Native)",
+        "Marathi (Native)"
+      ]
+    },
+    "projects": [
+      {
+        "title": "Version Control System",
+        "years": "2024 – 2025",
+        "description": [
+          "Rug version control system in Rust, leveraging its strengths in memory safety and performance for efficient source code management and fast versioning.",
+          "A very interesting and algorithm centric project. For every functionality of the project finding the best algorithm was a difficult task. Understanding and implementation of Myer’s Difference algorithm was especially challenging and time consuming."
+        ]
+      },
+      {
+        "title": "Psyche-Care: Your AI Therapist",
+        "years": "2023 - 2024",
+        "description": [
+          "Developed an AI-powered CBT therapy platform using OpenAI's GPT-3.5 and vector embeddings.",
+          "Utilized Supabase for storage and Next.js for the web application.",
+          "Implemented OpenAI API seemed easier than expected as it is a newer technology.",
+          "Difficulty in verifying CBT book efficiency was solved with the help from a psychology professor."
+        ]
+      },
+      {
+        "title": "Student Database Management System",
+        "years": "2022 - 2023",
+        "description": [
+          "Developed SDMS with Python Flask and MySQL for managing student data in educational institutions.",
+          "Facilitates student registration, grade management, attendance tracking, and report generation.",
+          "A learning experience in creating a project from scratch."
+        ]
+      },
+      {
+        "title": "ZivvyIT: Zero Knowledge Solution to Decentralised File Systems",
+        "years": "2024-2025",
+        "description": [
+          "ZivvyIt integrates blockchain and zkSNARKs for secure, private file storage with enhanced encryption.",
+          "It employs IPFS and Pinata for decentralized storage, ensuring resilience and accessibility in data management solutions.",
+          "Faced challenges with zkSNARKs implementation, navigating through various technologies before adopting Mina protocol for seamless integration."
+        ]
+      }
+    ],
+    "achievements_and_interests": [
+      "Winner of SoftCodeHack Hackathon by PHICIST Verb-Wise Track: This required the users to implement a web3 project using Verbwire API.",
+      "Eyantra (2023-34): Qualified for Eyantra Stage 2 Project competition round in the Track of Astro-Helper-Bot.",
+      "Coursera course Certification for Basics of React, and AWS Cloud Technology Consultant(ongoing).",
+      "Volunteer At Social Welfare and Development Activity, promoting technical education amongst the elder citizens of the country.",
+      "Hobbies includes playing cricket, football, bowling, Snooker, etc, listening to Music, Social hangouts."
+    ]
+  }
+  
